@@ -1,12 +1,5 @@
-# Birthday_Wisher_Project
-Automated Birthday Wisher
-
-
-
-
-
 # 🎉 Automated Birthday Wisher
-A Python script that automatically sends personalized birthday emails!
+A Python script that automatically sends personalized birthday emails to your friends and family when it's their special day!
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
