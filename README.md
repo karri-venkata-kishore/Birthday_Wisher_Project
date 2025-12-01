@@ -68,6 +68,9 @@ A Python script that automatically sends personalized birthday emails to your fr
 
 # 📁 File Structure
 
+```plaintext
+# your tree here
+```
 birthday-wisher/
 ├── main.py            # Main script
 ├── birthdays.csv      # Birthday database
@@ -76,6 +79,7 @@ birthday-wisher/
 │   ├── letter_2.txt
 │   └── letter_3.txt
 └── README.md
+
 
 # 🎨 Customization
 
