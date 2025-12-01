@@ -94,3 +94,18 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 # 📜 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
+
+
+### How to use this README:
+1. Copy the entire content above
+2. Create a new file named `README.md` in your project directory
+3. Paste the content
+4. Make any necessary adjustments (like replacing "yourusername" with your actual GitHub username)
+5. Commit and push to your GitHub repository
+
+This README provides:
+- Clean, professional formatting with emojis
+- Clear section organization
+- Detailed setup and usage instructions
+- Visual file structure
+- All the necessary information for users to understand and use your project
